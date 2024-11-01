@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon</title>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#D44816" x="0" y="0" width="128" height="128"></rect>
+        <text id="Social-Icons-Obvs" font-family="SwiftNeueLTPro-Regular, Swift Neue LT Pro" font-size="24" font-weight="normal" line-spacing="28" fill="#FEFEFE">
+            <tspan x="33" y="40">Social</tspan>
+            <tspan x="33" y="68">Icons</tspan>
+            <tspan x="33" y="96">Obvs</tspan>
+        </text>
+    </g>
+</svg>
